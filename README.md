@@ -45,9 +45,8 @@ Gravitrips/
 ├── spielfeld.py         # Spielfeld-Klasse (Paul)
 ├── spieler.py           # Spieler-Klasse (Martin)
 ├── computerspieler.py   # ComputerSpieler-Klasse (Martin)
-├── test_spielfeld.py    # Tests
+├── test_spielfeld.py    # Tests (Paul)
 ├── README.md            # Diese Datei
-└── docs/                # Dokumentation
 ```
 
 ## Status
