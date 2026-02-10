@@ -2,7 +2,7 @@
 
 Ein klassisches Vier-Gewinnt-Spiel in Python.
 
-Projekt für die Lehrveranstaltung "SEM - AI" im Wintersemester 2025.
+Projekt für die Lehrveranstaltung Softwareentwicklungsmodelle im Wintersemester 2025.
 
 ## Spielregeln
 
